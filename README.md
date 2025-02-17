@@ -38,9 +38,9 @@ I'm Zakaria Belarbi 🧑‍💻, a passionate coder and a current student at **1
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical" alt="Your GitHub stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=ZakariaBLR&show_icons=true&theme=radical" alt="Your GitHub stats">
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YourGitHubUsername&theme=radical" alt="GitHub streak stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ZakariaBLR&theme=radical" alt="GitHub streak stats">
 </p>
 
 ---
